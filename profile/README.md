@@ -1,6 +1,9 @@
 
-<p align="center"> <img src="https://codecamp.ro/wp-content/uploads/2023/03/logo-stand-14.png"></p>
+<p align="center"> <img src="https://codecamp.ro/wp-content/uploads/2023/03/logo-stand-14.png">
+90% of websites are inaccessible to people with disabilities who rely on assistive technology
 
+<p align="center"> so </p>
+<h2 align="center"> We introduce Chatibility </h2></p>
 <!--
 
 **Here are some ideas to get you started:**
